@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[五彩方圓]]></title>
   <link href="http://Kun-Neng.github.com/atom.xml" rel="self"/>
   <link href="http://Kun-Neng.github.com/"/>
-  <updated>2012-05-08T10:25:35+08:00</updated>
+  <updated>2012-05-08T14:04:14+08:00</updated>
   <id>http://Kun-Neng.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Kun-Neng]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
