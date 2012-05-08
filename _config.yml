@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://Kun-Neng.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 五彩方圓
+subtitle: 熱愛足球、小提琴、旅遊與美食的遊戲玩家
+author: Kun-Neng
 simple_search: http://google.com/search
 description:
 
@@ -72,7 +72,7 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
