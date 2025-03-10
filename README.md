@@ -3,15 +3,16 @@
 👨‍💻 About Me
 * Software Engineer
 * GDG Taoyuan Organizer
+* Drone Operator
 
 ☕ Skill Set
-* Front-End \
+* Frontend \
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular)
 
-* Back-End \
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)![Python](https://img.shields.io/badge/-Python-black?logo=python)![Java](https://img.shields.io/badge/-Java-black?logo=java)
+* Backend \
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)![Python](https://img.shields.io/badge/-Python-black?logo=python)![Java Spring](https://img.shields.io/badge/-Java-black?logo=spring)
 
 ⭐ Hobbies
-* Side Project
+* Side Projects
 * Soccer
 * Travel
